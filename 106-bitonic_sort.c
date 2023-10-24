@@ -1,4 +1,4 @@
-nclude "sort.h"
+#include "sort.h"
 #include <stdio.h>
 /**
  * swap - change two values in ascending or descending order
